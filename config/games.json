@@ -603,7 +603,8 @@
     "name": "Fairsquares",
     "image": "index.icon.png",
     "url": "fairsquares",
-    "new": false
+    "new": true
+  
   },
   {
     "name": "Fake Virus",
